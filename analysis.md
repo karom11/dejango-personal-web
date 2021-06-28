@@ -8,6 +8,7 @@ About :
     - titel
     - subtitle
     - comint
+    - My Skills [%]
     - Experience
     - Education
     - customer reviews
@@ -20,6 +21,7 @@ Services :
     - subtitle
     - side titles
     -Suspension
+    - year [from - to ]
     - text 
     -imge 
 
@@ -31,7 +33,7 @@ Contact :
     - form
     - Contact links
     - Social Media Links
-    
+
 
 
 
