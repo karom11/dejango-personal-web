@@ -10,18 +10,19 @@ About :
     - comint
     - My Skills [%]
     - Experience
+     - year [from - to ]
     - Education
     - customer reviews
     - Social Media Links 
 
 
-Services :
+Services (post) :
     - imge  
     - titel
     - subtitle
+    -------------
     - side titles
     -Suspension
-    - year [from - to ]
     - text 
     -imge 
 
