@@ -1,5 +1,5 @@
 home :
-    - imge 
+    - imges
     - titel
     - subtitle
 
@@ -8,10 +8,22 @@ About :
     - titel
     - subtitle
     - comint
+    -download cv
+
     - My Skills [%]
+    -titel
+
+
     - Experience
      - year [from - to ]
     - Education
+
+
+    - HAPPY CLIENTS
+    -PROJECTS
+    -AWARDS
+    -FOLLOWERS
+    - customer reviews (num)
     - customer reviews
     - Social Media Links 
 
@@ -22,9 +34,11 @@ Services (post) :
     - subtitle
     -------------
     - side titles
-    -Suspension
-    - text 
+    -Suspension 
     -imge 
+    - text
+    -imge
+    - Social Media Links 
 
 Contact :
     - imge  
